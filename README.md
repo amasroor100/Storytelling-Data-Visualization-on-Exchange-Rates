@@ -1,2 +1,4 @@
 # Storytelling-Data-Visualization-on-Exchange-Rates
 In the realm of financial analysis and economic storytelling, data visualization serves as a powerful tool for uncovering trends, patterns, and insights within vast datasets. In this study, we delve into the realm of exchange rates, specifically focusing on the Euro to USD conversion data spanning from 1999 to 2023.
+Through meticulous analysis and storytelling, we aim to shed light on significant geopolitical and economic events that have shaped currency valuations over the past two decades.
+By employing storytelling data visualization techniques, we aim to unravel the intricate interplay between geopolitical events, economic phenomena, and currency dynamics. Through this exploration, we endeavor to deepen our understanding of exchange rate fluctuations and their broader implications for global economies.
